@@ -1,0 +1,2 @@
+1. install randomuser library with: pip install randomuser
+2. run neo4jScript.py: python .\neo4jScript.py
